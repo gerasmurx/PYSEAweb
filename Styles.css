@@ -154,6 +154,13 @@ main .pincipo a{
     fill: white;
   }
 
+  .back2{
+    background-image: url(./imgs/Mback2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+  }
+
   @media (min-width: 768px) {
     .bd-placeholder-img-lg {
       font-size: 3.5rem;
