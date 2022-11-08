@@ -73,6 +73,16 @@ main .pincipo{
     font-weight: 500;
 }
 
+.pincipo2{
+  font-size: 1rem;
+  color: white;
+  background-color: #00973a;
+  padding: 7px;
+  border-radius: 3px;
+  font-weight: 500;
+  height: fit-content;
+}
+
 main .pincipo a{
     color: white;
     text-decoration: underline;
