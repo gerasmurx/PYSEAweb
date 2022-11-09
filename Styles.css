@@ -83,6 +83,12 @@ main .pincipo{
   height: fit-content;
 }
 
+.img-sm2{
+  width: 500px;
+  border-radius: 2rem;
+  object-fit: contain;
+}
+
 main .pincipo a{
     color: white;
     text-decoration: underline;
