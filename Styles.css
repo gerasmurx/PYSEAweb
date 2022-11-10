@@ -3,6 +3,9 @@
     margin: 0;
     box-sizing: border-box;
 }
+p, h1, h2, h3, h4{
+  cursor: default;
+}
 
 body {
     font-family: 'Exo', sans-serif;
